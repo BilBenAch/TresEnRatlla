@@ -1,0 +1,78 @@
+
+Ÿ
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë·Å½8ĞÂğç€/
+n
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ñşr8‚ç²Ô€/
+s
+java:S1104"QMake btn00 a static final constant or non-public and provide accessors if needed.(ÏŸ‚Áûÿÿÿÿ8‡•ˆÆı.
+]
+java:S1128"@Remove this unused import 'javax.xml.xpath.XPathConstants.NODE'.(¬îËá8… ÌÙ€/
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(ì·µå8ĞÂğç€/
+[	java:S106×"9Replace this use of System.out or System.err by a logger.(¸‰™ıÿÿÿÿ8ÀÏ¸è€/
+S
+java:S1128"6Remove this unused import 'java.awt.event.InputEvent'.(öï‚—8ÊåãÙ€/
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(˜ô¡ıÿÿÿÿ8ĞÂğç€/
+s
+java:S1104"QMake btn12 a static final constant or non-public and provide accessors if needed.(ÍÓÛŠıÿÿÿÿ8‹‡Æı.
+^	java:S125†"<This block of commented-out lines of code should be removed.(ÂáÖÓÿÿÿÿÿ8ÍÌ©è€/
+V	java:S106è"9Replace this use of System.out or System.err by a logger.(Ş—°º8ÎÀ³è€/
+F	java:S108ë")Either remove or fill this block of code.(ğÅòí8ÎÀ³è€/
+s
+java:S1104"QMake btn20 a static final constant or non-public and provide accessors if needed.(…ÙŸ²ûÿÿÿÿ8ÕæÆı.
+n
+java:S1104"QMake btn22 a static final constant or non-public and provide accessors if needed.(¾ãó¥8£¹Ïı.
+V	java:S106¶"9Replace this use of System.out or System.err by a logger.(ì·µå8ĞÂğç€/
+n
+java:S1104"QMake btn11 a static final constant or non-public and provide accessors if needed.(ñ¿îÜ8ÓÈŒÆı.
+^	java:S125¯"<This block of commented-out lines of code should be removed.(ÂáÖÓÿÿÿÿÿ8Ã°è€/
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ª¾œç€/
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ì·µå8ĞÂğç€/
+X	java:S125v"<This block of commented-out lines of code should be removed.(Çİ«²8¾è·Ô€/
+O
+java:S1172„"1Remove this unused method parameter "mouseEvent".(Ìªê8ĞÂğç€/
+]
+java:S1128";Remove this unused import 'javafx.scene.input.MouseButton'.(®Ñ÷“ıÿÿÿÿ8œÂñæ€/
+p
+java:S1871â"MThis branch's code block is the same as the block for the branch on line 351.(’ú¯¦ıÿÿÿÿ8ĞÂğç€/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï‡Î£8®ì¬ü.
+„
+java:S1845@"hRename method "CpuVSCpu" to prevent any misunderstanding/clash with field "CPUVSCPU" defined on line 31.(ñşr8‚ç²Ô€/
+<
+java:S1659'"Declare "y" on a separate line.(ÃÊ¦™8±”ª¬ş.
+{
+java:S1104"YMake jugadorVSjCPU a static final constant or non-public and provide accessors if needed.(»„¾³øÿÿÿÿ8¯–Óğÿ.
+x
+java:S1104"\Make jugadorVSjugador a static final constant or non-public and provide accessors if needed.(—›¸}8ÄáÒğÿ.
+L
+java:S2140ç")Use "java.util.Random.nextInt()" instead.(Å£”ÿÿÿÿÿ8ÎÀ³è€/
+V	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(™Û¶8ĞÂğç€/
+s
+java:S1104"QMake btn10 a static final constant or non-public and provide accessors if needed.(”î‡“ÿÿÿÿÿ8ë÷‹Æı.
+j
+java:S1192¬"LDefine a constant instead of duplicating this literal "Your name: " 3 times.(ì·µå8ĞÂğç€/
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(™Û¶8ĞÂğç€/
+s
+java:S1104"QMake btn21 a static final constant or non-public and provide accessors if needed.(áÈÅºûÿÿÿÿ8°ÉÆı.
+W
+java:S1128
+"5Remove this unused import 'javafx.scene.robot.Robot'.(²—Åùÿÿÿÿ8ÊåãÙ€/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ8ĞÂğç€/
+k
+java:S1871Ê"MThis branch's code block is the same as the block for the branch on line 328.(‘÷ÖÓ8ª¾œç€/
+n
+java:S1104"QMake btn01 a static final constant or non-public and provide accessors if needed.(°ª¶¼8ÁÛˆÆı.
+v
+java:S1104"TMake CPUVSCPU a static final constant or non-public and provide accessors if needed.(­î÷¬şÿÿÿÿ8óÌÓğÿ.
+t	java:S116"SRename this field "CPUVSCPU" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­î÷¬şÿÿÿÿ8óÌÓğÿ.
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(‰¾Ï£8‚ç²Ô€/
+Y	java:S125­"<This block of commented-out lines of code should be removed.(óÇ8‘·€è€/
+s
+java:S1104 "WMake startButton a static final constant or non-public and provide accessors if needed.(‘Ìåg8Š¦ÄÓı.
+p
+java:S1871Õ"MThis branch's code block is the same as the block for the branch on line 339.(ùåÏİùÿÿÿÿ8ª¾œç€/
+i	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñşr8‚ç²Ô€/
+L
+java:S1128"/Remove this unused import 'javafx.event.Event'.(ô”áñ8œÂñæ€/
+n
+java:S1104"QMake btn02 a static final constant or non-public and provide accessors if needed.(Ë•´ü8¦×‰Æı.
+[	java:S106é"9Replace this use of System.out or System.err by a logger.(éÍîâÿÿÿÿÿ8ÎÀ³è€/
